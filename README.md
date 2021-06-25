@@ -1,2 +1,3 @@
 # pokemonSearchingApp
-|- download node module when try this!
+
+download node module when try this!
